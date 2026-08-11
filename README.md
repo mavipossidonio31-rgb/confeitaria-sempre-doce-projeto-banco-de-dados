@@ -1,16 +1,43 @@
 # confeitaria-sempre-doce-projeto-banco-de-dados
 projeto do banco de dados para  confeitaria sempre doce
-## projeto de banco de dados
+# Projeto de Banco de Dados
 
-*** 
-***nome do projeto* :******site da confeitaria sempre** doce** 
-equipe de desenvolvimento : maria 
- **
+---
 
-## 1. visao geral do sistema (escopo)
+**Nome do projeto:** **Site da Confeitaria Sempre Doce**
 
-**
- a **confeitaria sempre doce ** deseja expandir sua atuacao  criando um site para vender seus produtos  estes sao feitos com muito amor e carinho e mantendo a tradicao a sua familia 
- 
+**Equipe de desenvolvimento:** Maria
 
-## 2. regras de negocios (rn)
+---
+
+## 1. Visão Geral do Sistema (Escopo)
+
+A **Confeitaria Sempre Doce** deseja expandir sua atuação criando um site para vender seus produtos. Estes são feitos com muito amor e carinho e mantendo a tradição de sua família.
+
+---
+
+## 2. Regras de Negócios (RN)
+
+**RN01:** O sistema deve gerenciar o cadastro de seus clientes. As informações úteis que foram levantadas são:
+
+* Nome completo
+* Telefone
+* E-mail
+* Endereço:
+
+  * Logradouro
+  * Bairro
+  * Estado
+  * CEP
+  * Cidade
+
+---
+
+**RF02:** O sistema deve permitir que o cliente envie uma mensagem com as informações do seu pedido. A mensagem será enviada via formulário do sistema, preenchendo os seguintes campos:
+
+* Nome
+* E-mail
+* Telefone
+* Endereço
+* Texto da mensagem
+
