@@ -41,3 +41,10 @@ A **Confeitaria Sempre Doce** deseja expandir sua atuação criando um site para
 * Endereço
 * Texto da mensagem
 
+
+##modelo conceitual
+![](image-1.png.ong)
+
+
+
+
